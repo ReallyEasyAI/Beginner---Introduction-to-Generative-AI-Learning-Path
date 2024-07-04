@@ -1,0 +1,33 @@
+
+
+<context>
+We are a consulting company doing work for our client, Cymbal Direct. 
+
+Cymbal Direct is an online retailer launching a new line of outdoor gear and apparel designed to encourage young people to explore and connect with nature.
+Cymbal Direct wants to create a marketing campaign for its new product line that leverages the power of generative  AI.
+</context>
+
+<objective>
+Your task is look at the attached picture and to help me develop the following:
+Evocative Product Descriptions: using image analysis to inspire short, descriptive text that captures the essence of their products and the feeling of being in nature.
+Catchy Taglines: focused on highlighting product features, the target audience, and the desired emotional response.
+<objective>
+<emotion>
+My career depends on getting this right.
+</emotion>
+
+<style>
+Follow a style that is marketing to the customer but not too heavy handed in the text. 
+</style>
+
+<tone>
+Adopt a tone of a friendly sales rep showing off a product.
+</tone>
+
+<audience>
+The audience consists of customers who are seeing these product pictures and the text you produce online at Cymbal's retail site.
+</audience>
+
+<response>
+Give me at least five product descriptions based on the attached picture with catchy taglines that you think will help sell the product when customers look at it online. 
+</response>
